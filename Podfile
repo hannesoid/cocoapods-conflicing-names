@@ -7,7 +7,9 @@ target 'Foo' do
 end
 
 target 'A' do
+pod 'Decodable'
 end
 
 target 'B' do
+pod 'Decodable'
 end
